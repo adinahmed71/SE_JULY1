@@ -1,1 +1,1 @@
-# SE_JULY1
+Todays class task.
